@@ -1,0 +1,37 @@
+header {
+    background-image: url("../bg3.jpg");
+    background-repeat: no-repeat;
+}
+
+body {
+    background-color: #d6d6d6;
+}
+
+h1 {
+    font-size: 200px;
+    height: 520px;
+    color: gray;
+    margin-top: 200px;
+}
+
+#info h4 {
+    background-color: gray;
+    border-radius: 20px;
+    font-size: 20px;
+    margin-top: 10px;
+    
+}
+
+figcaption {
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+h3 {
+    color: #2cadce;
+}
+
+footer {
+    background-color: rgb(197, 197, 197);
+}
